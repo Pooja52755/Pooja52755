@@ -3,7 +3,7 @@
 📧 ande.harshitapooja@gmail.com  
 📞 +91 86886 33460  
 📍 Srinivasa Residency, PJR Enclave, Hyderabad  
-🔗 [LinkedIn](https://www.linkedin.com/in/harshita-pooja-ande-14b004287/) | [GitHub](https://github.com/Pooja52755) | [LeetCode](https://leetcode.com/u/Pooja2345708/)
+🔗 [LinkedIn](https://www.linkedin.com/in/harshita-pooja-ande-14b004287/) | [GitHub](https://github.com/Pooja52755) 
 
 ---
 
@@ -30,8 +30,6 @@ I’m a passionate Computer Science Engineering student at CBIT, driven by curio
 ### 📚 CS Fundamentals  
 - Data Structures and Algorithms, OOPS, DBMS, SDLC
 
-### 🚀 Currently Learning / Planning to Learn  
-- Cloud (AWS), Machine Learning, AI Systems
 
 ---
 
