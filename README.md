@@ -71,7 +71,7 @@ I’m a passionate Computer Science Engineering student at CBIT, driven by curio
 
 ---
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Pooja52755&show_icons=true&rank_icon=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pooja52755&show_icons=true&rank_icon=default)
 
 ## 🎯 Aspirations
 
