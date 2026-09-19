@@ -71,6 +71,8 @@ I’m a passionate Computer Science Engineering student at CBIT, driven by curio
 
 ---
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pooja52755&show_icons=true&rank_icon=default)](https://github.com/Pooja52755)
+
 ## 🎯 Aspirations
 
 I aspire to become a **Machine Learning / AI Engineer** with expertise in **cloud-native** applications and **intelligent systems**. I aim to solve impactful problems using **ethical AI**, **data-driven decisions**, and scalable backend systems.
