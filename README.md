@@ -69,9 +69,7 @@ I’m a passionate Computer Science Engineering student at CBIT, driven by curio
 - 🥈 Winner – COSC Hackathon @ CBIT  
 - 🏆 Top 12 Finalist (out of 1000+ teams) – HackIndia National Hackathon  
 
----
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pooja52755&show_icons=true&rank_icon=default)
+
 
 ## 🎯 Aspirations
 
